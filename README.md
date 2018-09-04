@@ -18,7 +18,7 @@ MySQL 5.x数据库
 
 MySQL的Python异步驱动程序aiomysql：
 
-```python
+```bash
 $ pip3 install aiomysql
 ```
 
